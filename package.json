@@ -1,0 +1,22 @@
+{
+  "name": "npm101",
+  "version": "1.0.0",
+  "description": "haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qxred/npm101.git"
+  },
+  "keywords": [
+    "101"
+  ],
+  "author": "mememe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qxred/npm101/issues"
+  },
+  "homepage": "https://github.com/qxred/npm101#readme"
+}
